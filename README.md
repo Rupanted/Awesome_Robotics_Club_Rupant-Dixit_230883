@@ -1,6 +1,6 @@
 # Awesome_Robotics_Club_Rupant-Dixit_230883
 <br> First we write basic program for taking input and output of initial angles and target coordinates.
-<br>##Here’s how we can approach Part B:
+<br>..Here’s how we can approach Part B:
 
 Input:
 Initial joint positions/angles.
